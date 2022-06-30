@@ -1,0 +1,65 @@
+nohup: ignoring input
+sample rate:0
+threshold:0.15
+avg query time:90.158
+avg res:2.8
+threshold:0.2
+avg query time:90.165
+avg res:88
+threshold:0.25
+avg query time:90.167
+avg res:238.6
+threshold:0.3
+avg query time:90.376
+avg res:372.1
+threshold:0.35
+avg query time:90.158
+avg res:480.1
+sample rate:1
+threshold:0.15
+avg query time:179.699
+avg res:6.9
+threshold:0.2
+avg query time:179.703
+avg res:167.1
+threshold:0.25
+avg query time:179.806
+avg res:438.5
+threshold:0.3
+avg query time:180.162
+avg res:703.1
+threshold:0.35
+avg query time:179.923
+avg res:905.8
+sample rate:2
+threshold:0.15
+avg query time:243.887
+avg res:7.2
+threshold:0.2
+avg query time:244.081
+avg res:249.1
+threshold:0.25
+avg query time:243.775
+avg res:676.2
+threshold:0.3
+avg query time:243.592
+avg res:1076
+threshold:0.35
+avg query time:243.755
+avg res:1395.4
+sample rate:3
+threshold:0.15
+avg query time:331.91
+avg res:12.8
+threshold:0.2
+avg query time:332.132
+avg res:341.6
+threshold:0.25
+avg query time:332.403
+avg res:923
+threshold:0.3
+avg query time:333.02
+avg res:1453.2
+threshold:0.35
+avg query time:333.875
+avg res:1875.3
